@@ -2,7 +2,7 @@
 
 ![.NET Version](https://img.shields.io/badge/.NET-6.0-blueviolet?style=for-the-badge&logo=.net)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5-purple?style=for-the-badge&logo=bootstrap)
-![jQuery](https.img.shields.io/badge/jQuery-3.6-blue?style=for-the-badge&logo=jquery)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A modern Human Resource Information System (HRIS) web application built using the MVC architecture with .NET 6. This application is designed to streamline and automate human resource management tasks.
@@ -22,14 +22,6 @@ This HRIS aims to be a centralized platform for the HR department to efficiently
 -   ✅ **Reporting & Analytics:** Generate essential reports to aid in strategic decision-making.
 
 ## 🖼️ Screenshots
-
-| Main Dashboard | Employee List |
-| :--------------------------------------------------------------------------: | :----------------------------------------------------------------: |
-| _(Replace with your dashboard screenshot)_ <br> ![Dashboard Screenshot](https://via.placeholder.com/400x250.png?text=Application+Dashboard) | _(Replace with your employee list screenshot)_ <br> ![Employee List Screenshot](https://via.placeholder.com/400x250.png?text=Employee+List) |
-
-| Leave Request Form | Employee Profile Detail |
-| :--------------------------------------------------------------------------: | :----------------------------------------------------------------: |
-| _(Replace with your leave request form screenshot)_ <br> ![Leave Request Screenshot](https://via.placeholder.com/400x250.png?text=Leave+Request+Form) | _(Replace with your employee profile screenshot)_ <br> ![Employee Profile Screenshot](https://via.placeholder.com/400x250.png?text=Employee+Profile) |
 
 ## 🛠️ Tech Stack
 
